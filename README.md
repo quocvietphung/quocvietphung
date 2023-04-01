@@ -12,6 +12,4 @@ I'm Quoc Viet Phung, a software engineer with a passion for machine learning and
 
 - 📫 How to reach me: https://www.linkedin.com/in/quoc-viet-phung-00b740168/
 
-- 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love playing guitar and writing songs in my free time.
