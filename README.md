@@ -18,7 +18,7 @@ Aside from coding, I have a range of interests, including art, literature, sport
 
 - 📫 How to reach me: https://www.linkedin.com/in/quoc-viet-phung-00b740168/
 
-Techstack:
+### Techstack:
 
 - Backend:
     - Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/>
