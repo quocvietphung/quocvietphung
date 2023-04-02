@@ -4,7 +4,7 @@
 **quocvietphung/quocvietphung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="images/image.jpeg" alt="Image" height="280" width="300" />
+<img src="images/image.jpeg" alt="Image" height="280" width="280" />
 
 I'm Quoc Viet Phung, a software developer with over 2 years of experience in OOP programming. Throughout my career, I have honed my skills in building efficient and scalable software solutions. I understand the importance of writing clean and readable code, adhering to coding standards, and collaborating effectively with team members to achieve project goals.
 
