@@ -20,19 +20,19 @@ Aside from coding, I have a range of interests, including art, literature, sport
 
 ### Techstack:
 
-- Backend:
+- #### Backend:
     - Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/>
     - Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="25" height="25"/>
     - PHP <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="25" height="25"/>
     - Ruby on Rails <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby on Rails" width="25" height="25"/>
 
-- Frontend:
+- #### Frontend:
     - HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/>
     - CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/>
     - Javascript <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="25" height="25"/>
     - ReactJS <img src="https://img.icons8.com/officel/48/000000/react.png" alt="ReactJS" width="25" height="25"/>
 
-- Devops:
+- #### Devops:
     - Docker <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25" height="25"/>
     - CI/CD AWS <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="CI/CD AWS" width="25" height="25"/>
 
