@@ -103,10 +103,6 @@ section {
     width: 30vw;
 }
 
-.home-content  h3{
-    font-size: 2.8rem;
-    font-weight: 400;
-}
 
 .home-content  h3:nth-of-type(2){
     margin-bottom: 2rem;
@@ -155,6 +151,37 @@ span {
 
 .btn:hover {
     box-shadow: none;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    background: var(--secondary-bg-color);
+}
+
+.about-img  img{
+    width: 28vw;
+}
+
+.heading  {
+    text-align: center;
+    font-size: 4.5rem;
+}
+
+.about-content  h2{
+    text-align: left;
+    line-height: 1.2;
+}
+
+.about-content  h3{
+    font-size: 2.6rem;;
+}
+
+.about-content  p{
+    font-size: 1.6rem;
+    margin: 2rem 0 3rem ;
 }
 
 @media screen and (max-width: 992px) {
