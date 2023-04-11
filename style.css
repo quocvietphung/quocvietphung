@@ -226,6 +226,173 @@ span {
     margin: 1rem 0 3rem
 }
 
+/* Portfolio Section */
+
+.portfolio {
+    background: var(--secondary-bg-color);
+}
+
+.portfolio h2 {
+    margin-bottom: 4rem;
+}
+
+.portfolio-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.portfolio-container .portfolio-box {
+    position: relative;
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem var(--bg-color);
+    overflow: hidden;
+    display: flex;
+}
+
+.portfolio-box img {
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+    transition: .5s ease;
+}
+
+.portfolio-box:hover img {
+    transform: scale(1.1);
+}
+
+.portfolio-box .portfolio-layer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,.1),var(--main-color));
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 4rem;
+    transform: translateY(100%);
+    transition: .5s ease;
+}
+
+.portfolio-box:hover .portfolio-layer {
+    transform: translateY(0);
+}
+
+
+.portfolio-layer h4 {
+    font-size: 3rem;
+}
+
+.portfolio-layer p {
+    font-size: 1.6rem;
+    margin: .3rem 0 1rem
+}
+
+.portfolio-layer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5rem;
+    height: 5rem;
+    background: var(--text-color);
+    border-radius: 50%;
+}
+
+.portfolio-layer a i{
+    font-size: 2rem;
+    color: var(--secondary-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Contact Section */
+
+.contact {
+    background-color: var(--secondary-bg-color);
+    padding: 8rem 0;
+}
+
+.contact-wrapper {
+    max-width: 120rem;
+    margin: 5rem auto 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    padding: 5rem;
+    background-color: var(--bg-color);
+    border-radius: 2rem;
+    border: 2px solid var(--secondary-bg-color);
+}
+
+.contact-container:hover {
+    border-color: var(--main-color);
+}
+
+.contact-box {
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    box-shadow: 0 0 0 2px var(--bg-color);
+}
+
+.contact-box:hover {
+    transform: scale(1.1);
+}
+
+.contact-box i {
+    font-size: 3rem;
+    color: var(--main-color);
+    margin-bottom: 2rem;
+}
+
+.contact-box h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contact-box p {
+    font-size: 1.6rem;
+}
+
+/* Footer CSS */
+.footer {
+    background-color: var(--secondary-bg-color);
+    padding: 4rem;
+    margin-top: 8rem;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    font-size: 1.6rem;
+    color: var(--text-color);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.footer-text:hover {
+    transform: scale(1.05);
+    color: var(--main-color);
+}
+
 @media screen and (max-width: 992px) {
     .navbar ul {
         display: none;
