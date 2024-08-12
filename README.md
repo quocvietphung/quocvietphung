@@ -6,7 +6,7 @@
 
 <img src="images/image.jpeg" alt="Image" height="280" width="280" />
 
-I'm Quoc Viet Phung, a software developer with over 2 years of experience in OOP programming. Throughout my career, I have honed my skills in building efficient and scalable software solutions. I understand the importance of writing clean and readable code, adhering to coding standards, and collaborating effectively with team members to achieve project goals.
+I'm Quoc Viet Phung, a software developer with over 5 years of experience in OOP programming. Throughout my career, I have honed my skills in building efficient and scalable software solutions. I understand the importance of writing clean and readable code, adhering to coding standards, and collaborating effectively with team members to achieve project goals.
 
 My passion for coding goes beyond just developing software. I am deeply interested in the exciting fields of data science and artificial intelligence. I strongly believe that automation can help people save valuable time on manual calculations and increase accuracy in their work. My education includes a degree in Computer Science from the University of Applied Sciences Münster, and I continuously strive to expand my knowledge and skills in the ever-evolving technology field and software solutions. I enjoy building applications that solve real-world problems and bring value to people's lives.
 
