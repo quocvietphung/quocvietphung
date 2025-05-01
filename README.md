@@ -16,7 +16,7 @@ Aside from coding, I have a range of interests, including art, literature, sport
 
 - 💬 Ask me about software development, machine learning, and data science
 
-- 📫 How to reach me: https://www.linkedin.com/in/quoc-viet-phung-00b740168/
+- 📫 How to reach me: [https://www.linkedin.com/in/quoc-viet-phung-00b740168/](https://www.linkedin.com/in/viet-phung-00b740168/)
 
 ### Techstack:
 
