@@ -1,47 +1,108 @@
-### Hi there 👋
-
 <!--
 **quocvietphung/quocvietphung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="images/image.jpeg" alt="Image" height="280" width="280" />
+<div align="center">
+  <h1>Hi, I'm Viet Phung 👋</h1>
 
-I'm Quoc Viet Phung, a software developer with over 4 years of experience in OOP programming. Throughout my career, I have honed my skills in building efficient and scalable software solutions. I understand the importance of writing clean and readable code, adhering to coding standards, and collaborating effectively with team members to achieve project goals.
+<h3>AI Consultant | Fullstack Engineer | Cloud & Data Enthusiast</h3>
+</div>
 
-My passion for coding goes beyond just developing software. I am deeply interested in the exciting fields of data science and artificial intelligence. I strongly believe that automation can help people save valuable time on manual calculations and increase accuracy in their work. My education includes a degree in Computer Science from the University of Applied Sciences Münster, and I continuously strive to expand my knowledge and skills in the ever-evolving technology field and software solutions. I enjoy building applications that solve real-world problems and bring value to people's lives.
+<br/>
 
-Aside from coding, I have a range of interests, including art, literature, sports, and travel. I aspire to capture breathtaking photographs from every stunning corner of the world. 🌍🌅🌁
+<div align="center">
+  <p style="font-size: 16px; line-height: 1.6; max-width: 850px; margin: 0 auto;">
+    I'm a passionate technologist with 4+ years of experience in <strong>software engineering</strong>, working at the intersection of 
+    <strong>AI</strong>, <strong>cloud computing</strong>, and <strong>fullstack development</strong>. 
+    With a background in Computer Science from the <em>University of Applied Sciences Münster (Germany)</em>, 
+    I believe that technology is most powerful when it serves people — transforming ideas into real, impactful solutions. 
+    My philosophy revolves around <strong>continuous learning</strong>, <strong>experimentation</strong>, and <strong>collaboration</strong>.
+    <br/><br/>
+    I love building elegant, scalable systems that make everyday life simpler — from intelligent automation and data-driven apps 
+    to AI-powered products that empower creativity and growth. Outside of tech, I find inspiration in art, travel, 
+    mindfulness, and photography 🌍✨
+  </p>
+</div>
 
-- 🌱 I’m currently learning machine learning and its coordination with software engineering
+<hr/>
 
-- 💬 Ask me about software development, machine learning, and data science
+<div align="center">
 
-- 📫 How to reach me: [https://www.linkedin.com/in/quoc-viet-phung-00b740168/](https://www.linkedin.com/in/viet-phung-00b740168/)
+### 🧩 Tech Stack
 
-### Techstack:
+<!-- Core Technologies -->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- #### Backend:
-    - Python <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="25" height="25"/>
-    - Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="25" height="25"/>
-    - PHP <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="25" height="25"/>
-    - Ruby on Rails <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby on Rails" width="25" height="25"/>
+</div>
 
-- #### Frontend:
-    - HTML <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="25" height="25"/>
-    - CSS <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="25" height="25"/>
-    - Javascript <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" width="25" height="25"/>
-    - ReactJS <img src="https://img.icons8.com/officel/48/000000/react.png" alt="ReactJS" width="25" height="25"/>
+<hr/>
 
-- #### Devops:
-    - Docker <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="25" height="25"/>
-    - CI/CD AWS <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="CI/CD AWS" width="25" height="25"/>
+<div align="center">
 
-<h3 align="center"> Certifications of HackerRank</h3>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="certifications/PS-intermediate.png" alt="Problem-Solving-Intermediate" height="120" width="160" />
-  <img src="certifications/PS-Basis.png" alt="Problem-Solving-Basis" height="120" width="160" />
-  <img src="certifications/Java.png" alt="Java" height="120" width="160" />
-  <img src="certifications/Python.png" alt="Python" height="120" width="160" />
+<!-- GitHub Stats Card -->
+<a href="https://github.com/quocvietphung">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quocvietphung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats"/>
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/quocvietphung">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocvietphung&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+</a>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+### 📌 Featured Projects
+
+<!-- Highlight your pinned repositories -->
+<a href="https://github.com/quocvietphung/my-ai-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocvietphung&repo=my-ai-portfolio&theme=tokyonight" alt="my-ai-portfolio" />
+</a>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+### 💬 Connect with Me
+
+<p>
+  📧 <strong>Email:</strong> <a href="mailto:phungquocviet.dev@gmail.com">phungquocviet.dev@gmail.com</a>
 </p>
 
+<p>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/quocvietphung" target="_blank">linkedin.com/in/quocvietphung</a>
+</p>
+
+<p>
+  🌐 <strong>Portfolio:</strong> <a href="https://my-ai-portfolio-seven.vercel.app" target="_blank">my-ai-portfolio-seven.vercel.app</a>
+</p>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=quocvietphung&color=blueviolet" alt="Profile Views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>✨ Built with passion using <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats API</a>, <a href="https://shields.io">Shields.io</a>, and ❤️ Open Source ✨</sub>
+</div>
