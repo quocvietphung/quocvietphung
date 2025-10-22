@@ -79,11 +79,11 @@
 ### 💬 Connect with Me
 
 <p>
-  📧 <strong>Email:</strong> <a href="mailto:phungquocviet.dev@gmail.com">phungquocviet.dev@gmail.com</a>
+  📧 <strong>Email:</strong> <a href="mailto:phungquocviet.dev@gmail.com">quocvietphung1993@gmail.com</a>
 </p>
 
 <p>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/quocvietphung" target="_blank">linkedin.com/in/quocvietphung</a>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/viet-phung-00b740168/" target="_blank">https://www.linkedin.com/in/viet-phung-00b740168/</a>
 </p>
 
 <p>
