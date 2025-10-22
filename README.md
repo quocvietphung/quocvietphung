@@ -3,7 +3,6 @@
 -->
 
 <div align="center">
-  <img src="images/profile.jpg" alt="Viet Phung Profile" width="200" height="200" style="border-radius: 50%;" />
   
   <h1>Hi, I'm Viet Phung 👋</h1>
   
@@ -61,16 +60,8 @@
 <a href="https://github.com/quocvietphung/my-ai-portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocvietphung&repo=my-ai-portfolio&theme=tokyonight" alt="my-ai-portfolio" />
 </a>
-<a href="https://github.com/quocvietphung/voice_coach_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocvietphung&repo=voice_coach_app&theme=tokyonight" alt="voice_coach_app" />
-</a>
 
-<a href="https://github.com/quocvietphung/diamond_price_predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocvietphung&repo=diamond_price_predictor&theme=tokyonight" alt="diamond_price_predictor" />
-</a>
-<a href="https://github.com/quocvietphung/quocvietphung">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=quocvietphung&repo=quocvietphung&theme=tokyonight" alt="quocvietphung" />
-</a>
+
 
 </div>
 
@@ -78,19 +69,7 @@
 
 <div align="center">
 
-### ⏱️ Coding Activity
 
-<!-- WakaTime Stats - automatically hidden if no data available -->
-<!-- This requires WakaTime integration. If not set up, the card will display a message. -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=quocvietphung&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
-
-<sub>Note: WakaTime stats are shown if integration is active. Otherwise, this section remains hidden.</sub>
-
-</div>
-
-<hr/>
-
-<div align="center">
 
 ### 💬 Connect with Me
 
