@@ -1,54 +1,275 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE-edge">
-  <meta name="viewport" content = "width=device-width, initial-scale=1.0">
-  <title>Responsive Personal Portfolio Website Design | Codehal</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta
+    name="description"
+    content="Viet Phung - AI Consultant, Fullstack Engineer, and Cloud & Data Enthusiast."
+  >
+  <meta name="theme-color" content="#0f766e">
+  <title>Viet Phung | AI Consultant & Fullstack Engineer</title>
 
-  <!-- box icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap"
+    rel="stylesheet"
+  >
   <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
-
-  <!-- custom css -->
   <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+  <div class="page-bg" aria-hidden="true">
+    <span class="orb orb--one"></span>
+    <span class="orb orb--two"></span>
+    <span class="orb orb--three"></span>
+  </div>
 
-<!-- header design -->
+  <header class="header">
+    <div class="container header__inner">
+      <a class="brand" href="#home">Viet Phung</a>
 
-<header class="header">
-  <a href="#" class="logo">Portfolio</a>
-  <i class='bx bx-menu' id="menu-icon"></i>
-  <nav class="navbar">
-    <ul>
-      <li><a href="#home" class="active">Home</a></li>
-      <li><a href="#about">About</a></li>
-      <li><a href="#services">Services</a></li>
-      <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-</header>
+      <nav class="nav" aria-label="Primary">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#certifications">Certifications</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
 
-<!-- introduction section -->
-<section class="home" id="home">
-  <div class="home-content">
-    <h3>Hello, Welcome to my Portfolio</h3>
-    <h1>My name is Viet Phung</h1>
-    <h3>And I'm a <span>Fullstack Software Developer</span></h3>
-    <p>Here you can find information about my skills, experience and projects. Feel free to explore and get in touch.</p>
-    <div class="social-media">
-      <a href="#"><i class="bx bxl-linkedin"></i></a>
-      <a href="#"><i class="bx bxl-github"></i></a>
+      <a class="header__cta" href="mailto:quocvietphung1993@gmail.com">Let's talk</a>
     </div>
-    <a href="#" class="btn">Download CV</a>
-  </div>
+  </header>
 
-  <div class="home-img">
-    <img src="images/home.jpg" alt="">
-  </div>
-</section>
+  <main>
+    <section class="hero container" id="home">
+      <div class="hero__copy">
+        <p class="eyebrow">AI Consultant | Fullstack Engineer | Cloud & Data Enthusiast</p>
+        <h1>Building thoughtful products that feel reliable from the first click.</h1>
+        <p class="lead">
+          I am Viet Phung, a software engineer with more than 4 years of experience at the intersection
+          of AI, cloud computing, and fullstack development. With a Computer Science background from the
+          University of Applied Sciences Muenster in Germany, I focus on turning ideas into clear, practical,
+          and maintainable systems.
+        </p>
+        <div class="actions">
+          <a class="btn btn--primary" href="#projects">See selected work</a>
+          <a class="btn btn--secondary" href="#contact">Get in touch</a>
+        </div>
+
+        <div class="stats" aria-label="Highlights">
+          <article class="stat">
+            <strong>4+ years</strong>
+            <span>of software engineering experience</span>
+          </article>
+          <article class="stat">
+            <strong>AI + cloud</strong>
+            <span>practical solutions from idea to delivery</span>
+          </article>
+          <article class="stat">
+            <strong>Germany</strong>
+            <span>Computer Science background in Muenster</span>
+          </article>
+        </div>
+      </div>
+
+      <div class="hero__visual">
+        <div class="portrait-card">
+          <img src="images/profile.jpg" alt="Portrait of Viet Phung">
+          <div class="portrait-card__badge">Wuppertal, Germany</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section container" id="about">
+      <div class="section__header">
+        <p class="eyebrow">About</p>
+        <h2>Practical engineering, calm communication, and a bias for shipping.</h2>
+        <p>
+          I like building software that is useful, maintainable, and pleasant to use. My approach combines
+          product thinking, hands-on execution, and a strong focus on long-term clarity.
+        </p>
+      </div>
+
+      <div class="grid-2">
+        <article class="panel">
+          <p>
+            I enjoy working across the stack, from interface details to backend systems and cloud deployment.
+            I care about structure, reliability, and the small details that make a product feel polished.
+          </p>
+          <p>
+            Outside of engineering, I like travel, photography, and steady personal growth. Those interests
+            keep my work grounded and help me design products with a more human perspective.
+          </p>
+        </article>
+
+        <article class="panel panel--accent">
+          <h3>Current focus</h3>
+          <ul class="list">
+            <li>AI-assisted workflows and product automation</li>
+            <li>Cloud-native app architecture and deployment</li>
+            <li>Data-driven internal tools and dashboards</li>
+            <li>Clean front-end systems with strong UX</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="section container" id="skills">
+      <div class="section__header">
+        <p class="eyebrow">Skills</p>
+        <h2>Tools and technologies I use to move quickly without losing quality.</h2>
+      </div>
+
+      <div class="chips" aria-label="Technical skills">
+        <span class="chip">TypeScript</span>
+        <span class="chip">Python</span>
+        <span class="chip">React</span>
+        <span class="chip">Next.js</span>
+        <span class="chip">Node.js</span>
+        <span class="chip">Azure</span>
+        <span class="chip">Git</span>
+      </div>
+    </section>
+
+    <section class="section container" id="stats">
+      <div class="section__header">
+        <p class="eyebrow">GitHub Stats</p>
+        <h2>Open-source activity and language breakdown.</h2>
+        <p>A quick snapshot of my GitHub profile and the languages I use most often.</p>
+      </div>
+
+      <div class="github-stats">
+        <a class="github-stats__card" href="https://github.com/quocvietphung" target="_blank" rel="noreferrer">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api?username=quocvietphung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+            alt="GitHub Stats"
+          >
+        </a>
+        <a class="github-stats__card" href="https://github.com/quocvietphung" target="_blank" rel="noreferrer">
+          <img
+            src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=quocvietphung&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+            alt="Top Languages"
+          >
+        </a>
+      </div>
+    </section>
+
+    <section class="section container" id="certifications">
+      <div class="section__header">
+        <p class="eyebrow">Certifications</p>
+        <h2>A few credentials that reflect my problem-solving foundation.</h2>
+      </div>
+
+      <div class="certs">
+        <figure class="cert">
+          <img src="certifications/PS-Basis.png" alt="HackerRank Problem Solving Basic certificate">
+          <figcaption>Problem Solving (Basic)</figcaption>
+        </figure>
+        <figure class="cert">
+          <img src="certifications/PS-intermediate.png" alt="HackerRank Problem Solving Intermediate certificate">
+          <figcaption>Problem Solving (Intermediate)</figcaption>
+        </figure>
+        <figure class="cert">
+          <img src="certifications/Java.png" alt="HackerRank Java Basic certificate">
+          <figcaption>Java (Basic)</figcaption>
+        </figure>
+        <figure class="cert">
+          <img src="certifications/Python.png" alt="HackerRank Python Basic certificate">
+          <figcaption>Python (Basic)</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section container" id="projects">
+      <div class="section__header">
+        <p class="eyebrow">Projects</p>
+        <h2>Selected work and the kinds of systems I enjoy building.</h2>
+      </div>
+
+      <div class="projects">
+        <article class="project">
+          <p class="project__tag">Featured project</p>
+          <h3>my-ai-portfolio</h3>
+          <p>
+            A personal portfolio site that presents my background, skills, and contact details in one
+            clean and responsive experience.
+          </p>
+          <a href="https://my-ai-portfolio-seven.vercel.app" target="_blank" rel="noreferrer">
+            Live site <i class="bx bx-right-arrow-alt" aria-hidden="true"></i>
+          </a>
+        </article>
+
+        <article class="project">
+          <p class="project__tag">What I build</p>
+          <h3>AI and workflow automation</h3>
+          <p>
+            Productive assistants, internal tools, and repeatable workflows that help teams move faster
+            with less friction.
+          </p>
+          <a href="#contact">
+            Discuss a project <i class="bx bx-right-arrow-alt" aria-hidden="true"></i>
+          </a>
+        </article>
+
+        <article class="project">
+          <p class="project__tag">Engineering focus</p>
+          <h3>Cloud and data systems</h3>
+          <p>
+            Maintainable services, deployment-friendly architecture, and data-informed interfaces that are
+            easy to operate.
+          </p>
+          <a href="#about">
+            How I work <i class="bx bx-right-arrow-alt" aria-hidden="true"></i>
+          </a>
+        </article>
+      </div>
+    </section>
+
+    <section class="section container" id="contact">
+      <div class="section__header">
+        <p class="eyebrow">Contact</p>
+        <h2>Let's build something calm, useful, and polished.</h2>
+        <p>
+          I am open to consulting, collaboration, and product engineering work where quality and clarity matter.
+        </p>
+      </div>
+
+      <div class="contact-card">
+        <div>
+          <h3>Open for new conversations</h3>
+          <p>
+            If you have an idea, a product problem, or a system that needs careful engineering, feel free
+            to reach out.
+          </p>
+
+          <div class="contact-links">
+            <a class="chip chip--link" href="mailto:quocvietphung1993@gmail.com">
+              <i class="bx bx-envelope" aria-hidden="true"></i>
+              Email
+            </a>
+            <a class="chip chip--link" href="https://www.linkedin.com/in/viet-phung-00b740168/" target="_blank" rel="noreferrer">
+              <i class="bx bxl-linkedin-square" aria-hidden="true"></i>
+              LinkedIn
+            </a>
+            <a class="chip chip--link" href="https://my-ai-portfolio-seven.vercel.app" target="_blank" rel="noreferrer">
+              <i class="bx bx-globe" aria-hidden="true"></i>
+              Portfolio
+            </a>
+          </div>
+        </div>
+
+        <a class="btn btn--primary" href="mailto:quocvietphung1993@gmail.com">Start a conversation</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <p>Built with clean HTML and CSS for a simple, professional personal site.</p>
+    </div>
+  </footer>
 </body>
 </html>
