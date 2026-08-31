@@ -95,6 +95,31 @@
   </tr>
 </table>
 
+### Python Certification
+<table>
+  <tr>
+    <td width="55%" align="center" valign="middle">
+      <a href="https://verify.openedg.org/?id=XBZh.scyc.B3Xy">
+        <img src="certifications/pcap-certified-associate-python-programmer.png" width="460" alt="PCAP Certified Associate Python Programmer credential" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <strong>PCAP - Certified Associate Python Programmer</strong>
+      <br /><br />
+      Vendor-neutral, associate-level validation of Python programming skills in the Python
+      Institute's General-Purpose Programming track.
+      <br /><br />
+      <strong>Credential:</strong> PCAP-31-03
+      <br />
+      <strong>Certified:</strong> June 27, 2025
+      <br />
+      <strong>Certification ID:</strong> XBZh.scyc.B3Xy
+      <br /><br />
+      <a href="https://verify.openedg.org/?id=XBZh.scyc.B3Xy">Verify on OpenEDG</a>
+    </td>
+  </tr>
+</table>
+
 ### Current focus
 - AI-assisted workflows and automation
 - Scalable fullstack application development
