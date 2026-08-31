@@ -44,6 +44,57 @@
   </a>
 </p>
 
+### Microsoft Azure Credentials
+<p>
+  Microsoft-certified across cloud fundamentals, Azure administration, and AI engineering. These
+  independently verifiable credentials complement my software engineering background with broad
+  Azure expertise, from core platform services and governance to building AI-powered solutions.
+</p>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://learn.microsoft.com/en-us/users/quocvietphung-6679/credentials/certification/azure-fundamentals">
+        <img src="certifications/microsoft-azure-fundamentals.png" width="300" alt="Microsoft Certified Azure Fundamentals credential" />
+      </a>
+      <br />
+      <strong>Microsoft Certified: Azure Fundamentals</strong>
+      <br />
+      Core cloud concepts and Azure services
+      <br />
+      Earned July 2025
+      <br />
+      <a href="https://learn.microsoft.com/en-us/users/quocvietphung-6679/credentials/certification/azure-fundamentals">Verify on Microsoft Learn</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://learn.microsoft.com/en-gb/users/quocvietphung-6679/credentials/certification/azure-ai-engineer">
+        <img src="certifications/microsoft-azure-ai-engineer-associate.png" width="300" alt="Microsoft Certified Azure AI Engineer Associate credential" />
+      </a>
+      <br />
+      <strong>Microsoft Certified: Azure AI Engineer Associate</strong>
+      <br />
+      Designing and implementing Azure AI solutions
+      <br />
+      Earned October 2025 | Valid through October 2026
+      <br />
+      <a href="https://learn.microsoft.com/en-gb/users/quocvietphung-6679/credentials/certification/azure-ai-engineer">Verify on Microsoft Learn</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://learn.microsoft.com/en-us/users/quocvietphung-6679/credentials/certification/azure-administrator">
+        <img src="certifications/microsoft-azure-administrator-associate.png" width="300" alt="Microsoft Certified Azure Administrator Associate credential" />
+      </a>
+      <br />
+      <strong>Microsoft Certified: Azure Administrator Associate</strong>
+      <br />
+      Azure operations, identity, governance, storage, and networking
+      <br />
+      Earned July 2026 | Valid through July 2027
+      <br />
+      <a href="https://learn.microsoft.com/en-us/users/quocvietphung-6679/credentials/certification/azure-administrator">Verify on Microsoft Learn</a>
+    </td>
+  </tr>
+</table>
+
 ### Current focus
 - AI-assisted workflows and automation
 - Scalable fullstack application development
@@ -61,7 +112,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Certifications
+### Additional Certifications
 <table>
   <tr>
     <td align="center">
